@@ -12,5 +12,5 @@ The K2 algorithm [2] can be used to learn the topology of a Bayes network.
 
 In this project, we will immplement 2 main tasks:
 
-1. Create the K2 algorithm for Bayesian network, after that, test the performance of the K2 algorithm with different networks (Ruiz, Asia, Child)
+1. Create the K2 algorithm for Bayesian network, after that, test the performance of the K2 algorithm with different networks (Ruiz, Asia, Child).
 2. Investigate if it is possible to code it inside the bnstruct R package. 
