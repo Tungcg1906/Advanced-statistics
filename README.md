@@ -14,3 +14,14 @@ In this project, we will immplement 2 main tasks:
 
 1. Create the K2 algorithm for Bayesian network, after that, test the performance of the K2 algorithm with different networks (Ruiz, Asia, Child).
 2. Investigate if it is possible to code it inside the bnstruct R package. 
+
+
+Bibliography
+[1] G. F. Cooper and E. Herskovits, A Bayesian Method for the Induction of Probabilistic Networks from
+Data, Machine Learning 9, (1992) 309
+[2] C. Ruiz, Illustration of the K2 Algorithm for learning Bayes Net Structures, http://web.cs.wpi.
+edu/~cs539/s11/Projects/k2_algorithm.pdf
+[3] A. Franzin et al., bnstruct: an R package for Bayesian Network structure learning in the presence
+of missing data, Bioinformatics 33(8) (2017) 1250
+[4] F. Sambo and A. Franzin, bnstruct: an R package for Bayesian Network Structure Learning with
+missing data, December 12, 2016
