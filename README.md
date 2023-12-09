@@ -1,4 +1,4 @@
-# Bayesian_Network
+# Bayesian Network
 
 A Bayesian belief-network structure is a directed acyclic graph in which nodes represent domain variables
 and arcs between nodes represent probabilistic dependencies [1]. Given a database of records, it is interesting to construct a probabilistic network which can provide insights into probabilistic dependencies
